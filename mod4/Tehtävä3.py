@@ -8,5 +8,3 @@ luku = 0
 while luku != "":
     luku = int(input("Anna luku: "))
     print(f"")
-
-#
